@@ -1,1 +1,1 @@
-# Переписывание игры Aircraft(https://github.com/SFML/SFML-Game-Development-Book) c С++ на Java
+# rewriting Aircraft game (https://github.com/SFML/SFML-Game-Development-Book) from c++ to java
